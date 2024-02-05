@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import CardSection from "@/Components/CardsSection";
-import ConversionCard from "@/Components/conversionCard";
+import ConversionCard from "@/Components/ConversionCard";
 import Footer from "@/Components/Footer";
 import HeaderComponent from "@/Components/HeaderComponent";
 const Home = () => {
